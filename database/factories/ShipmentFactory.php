@@ -1,27 +1,28 @@
 <?php
 
-/** @var \Illuminate\Database\Eloquent\Factory $factory */
+namespace Database\Factories;
 
-
-use App\Agency;
-use App\User;
 use App\Shipment;
-use Faker\Generator as Faker;
+use App\User;
+use Illuminate\Database\Eloquent\Factories\Factory;
 
-$factory->define(Shipment::class, function (Faker $faker) {
-    return [
-        'receiver_name' => $faker->name,
-        'receiver_company' => $faker->company,
-        'receiver_gst' => $faker->numerify('GST#######'),
-        'receiver_phone' => $faker->phoneNumber,
-        'receiver_secondary_phone' => $faker->phoneNumber,
-        'receiver_email' => $faker->email,
-        'receiver_state' => $faker->state,
-        'receiver_address' => $faker->address,
-        'receiver_pincode' => $faker->postcode,
-  
-        'customer_id' => function() {
-            return User::all()->random();
-        }
-    ];
-});
+class ShipmentFactory extends Factory
+{
+    protected $model = Shipment::class;
+
+    public function definition()
+    {
+        return [
+            'receiver_name' => $this->faker->name,
+            'receiver_company' => $this->faker->company,
+            'receiver_gst' => $this->faker->numerify('GST#######'),
+            'receiver_phone' => $this->faker->phoneNumber,
+            'receiver_secondary_phone' => $this->faker->phoneNumber,
+            'receiver_email' => $this->faker->email,
+            'receiver_state' => $this->faker->state,
+            'receiver_address' => $this->faker->address,
+            'receiver_pincode' => $this->faker->postcode,
+            'customer_id' => fn () => User::inRandomOrder()->value('id'),
+        ];
+    }
+}

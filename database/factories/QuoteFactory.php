@@ -1,20 +1,26 @@
 <?php
 
-/** @var \Illuminate\Database\Eloquent\Factory $factory */
+namespace Database\Factories;
 
 use App\Quote;
-use Faker\Generator as Faker;
+use Illuminate\Database\Eloquent\Factories\Factory;
 
-$factory->define(Quote::class, function (Faker $faker) {
-    return [
-            'from' => $faker->city,
-            'to' => $faker->city,
-            'description' => $faker->text(50),
-            'size' => $faker->randomFloat(2),
-            'weight' => $faker->randomFloat(2),
-            'eta' => $faker->randomDigit,
-            'rate' => $faker->numberBetween(1000,10000),
-            'advance' => $faker->numberBetween(100,1000),
+class QuoteFactory extends Factory
+{
+    protected $model = Quote::class;
+
+    public function definition()
+    {
+        return [
+            'from' => $this->faker->city,
+            'to' => $this->faker->city,
+            'description' => $this->faker->text(50),
+            'size' => $this->faker->randomFloat(2),
+            'weight' => $this->faker->randomFloat(2),
+            'eta' => $this->faker->randomDigit,
+            'rate' => $this->faker->numberBetween(1000, 10000),
+            'advance' => $this->faker->numberBetween(100, 1000),
             'customer_id' => '1',
-    ];
-});
+        ];
+    }
+}

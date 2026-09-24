@@ -1,9 +1,9 @@
 <?php
+namespace Database\Seeders;
 
 use Illuminate\Database\Seeder;
-use App\Settings;
 
-class SettingSeeder extends Seeder
+class PriceListSeeder extends Seeder
 {
     /**
      * Run the database seeds.
@@ -12,8 +12,6 @@ class SettingSeeder extends Seeder
      */
     public function run()
     {
-        Settings::create([
-            'shipment_id' => 200,
-        ]);
+        //
     }
 }

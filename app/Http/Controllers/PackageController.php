@@ -7,7 +7,7 @@ use App\Package;
 use App\Shipment;
 use App\Http\Resources\Package as PackageResource;
 use Carbon\Carbon;
-use Helpers;
+use App\Http\Helpers;
 class PackageController extends Controller
 {
     /**

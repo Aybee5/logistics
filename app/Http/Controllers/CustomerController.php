@@ -11,7 +11,7 @@ use App\ShipmentStatus;
 use App\ShipmentVendorDetail;
 use App\VendorPayment;
 use Carbon\Carbon;
-use Helpers;
+use App\Http\Helpers;
 use App\Http\Resources\Customer as CustomerResource;
 use App\Http\Resources\CustomerInvoice as CustomerInvoiceResource;
 use Snowfire\Beautymail\Beautymail;

@@ -17,7 +17,7 @@ use App\Http\Resources\Undelivered as UndeliveredResource;
 use App\Http\Resources\ShipmentSingle as ShipmentSingleResource;
 use Illuminate\Http\Request;
 use Carbon\Carbon;
-use Helpers;
+use App\Http\Helpers;
 
 use App\Events\ShipmentUpdatedEvent;
 

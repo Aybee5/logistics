@@ -4,7 +4,7 @@ namespace App\Listeners;
 use App\Settings;
 use Illuminate\Contracts\Queue\ShouldQueue;
 use Illuminate\Queue\InteractsWithQueue;
-use Helpers;
+use App\Http\Helpers;
 
 class ShipmentStatusUpdateListener
 {

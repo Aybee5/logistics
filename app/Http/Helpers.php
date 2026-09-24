@@ -1,4 +1,5 @@
 <?php
+namespace App\Http;
 use Carbon\Carbon;
 
  class Helpers {

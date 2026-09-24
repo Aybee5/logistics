@@ -1,6 +1,7 @@
 <?php
 
 namespace App;
+use Illuminate\Database\Eloquent\Factories\HasFactory;
 use App\User;
 use App\Vendor;
 use App\Package;
@@ -12,6 +13,8 @@ use Illuminate\Database\Eloquent\Model;
 
 class Shipment extends Model
 {
+    use HasFactory;
+
  protected $guarded = [];
 
 public function package(){

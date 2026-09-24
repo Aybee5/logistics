@@ -6,7 +6,7 @@ use App\VendorExpense;
 use Illuminate\Http\Request;
 use App\Http\Resources\VendorExpense as VendorExpenseResource;
 use Carbon\Carbon;
-use Helpers;
+use App\Http\Helpers;
 
 
 class VendorExpenseController extends Controller

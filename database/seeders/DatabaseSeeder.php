@@ -1,9 +1,11 @@
 <?php
+namespace Database\Seeders;
 
 use Illuminate\Database\Seeder;
 use App\User;
 use App\Shipment;
 use App\Setting;
+
 
 class DatabaseSeeder extends Seeder
 {
@@ -14,9 +16,9 @@ class DatabaseSeeder extends Seeder
      */
     public function run()
     {
-       factory(User::class,5)->create();
+       User::factory()->count(5)->create();
     
-    //    factory(Shipment::class,15)->create();
+    //    Shipment::factory()->count(15)->create();
       
        $this->call(AdminCustomerUserSeeder::class);
        $this->call(ShipmentRateSeeder::class);

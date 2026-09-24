@@ -89097,7 +89097,7 @@ exports = module.exports = __webpack_require__(/*! ../../../../node_modules/css-
 
 
 // module
-exports.push([module.i, "\n.router-link-exact-active[data-v-1d58b4dd] {\r\n  background-color: #4e73df;\r\n  color: white;\n}\r\n", ""]);
+exports.push([module.i, "\n.router-link-exact-active[data-v-1d58b4dd] {\n  background-color: #4e73df;\n  color: white;\n}\n", ""]);
 
 // exports
 
@@ -89116,7 +89116,7 @@ exports = module.exports = __webpack_require__(/*! ../../../../node_modules/css-
 
 
 // module
-exports.push([module.i, "\n.font-xs {\r\n  font-size: 0.6rem;\n}\n.font-s {\r\n  font-size: 0.8rem;\n}\n.font-md {\r\n  font-size: 1.1rem;\n}\np {\r\n  color: black !important;\n}\n.font-dark {\r\n  color: black !important;\n}\n.only-print {\r\n  display: none;\n}\n@media print {\n.pagebreak {\r\n    page-break-before: always;\n}\n.only-print {\r\n    display: block;\n}\n}\n.bg-white {\r\n  background-color: white !important;\n}\r\n", ""]);
+exports.push([module.i, "\n.font-xs {\n  font-size: 0.6rem;\n}\n.font-s {\n  font-size: 0.8rem;\n}\n.font-md {\n  font-size: 1.1rem;\n}\np {\n  color: black !important;\n}\n.font-dark {\n  color: black !important;\n}\n.only-print {\n  display: none;\n}\n@media print {\n.pagebreak {\n    page-break-before: always;\n}\n.only-print {\n    display: block;\n}\n}\n.bg-white {\n  background-color: white !important;\n}\n", ""]);
 
 // exports
 
@@ -89135,7 +89135,7 @@ exports = module.exports = __webpack_require__(/*! ../../../../node_modules/css-
 
 
 // module
-exports.push([module.i, "\n.router-link-exact-active[data-v-2a860068] {\r\n  background-color: #4e73df;\r\n  color: white;\n}\r\n", ""]);
+exports.push([module.i, "\n.router-link-exact-active[data-v-2a860068] {\n  background-color: #4e73df;\n  color: white;\n}\n", ""]);
 
 // exports
 
@@ -89154,7 +89154,7 @@ exports = module.exports = __webpack_require__(/*! ../../../../node_modules/css-
 
 
 // module
-exports.push([module.i, "\n@media print {\n#wrapper #content-wrapper {\r\n    background-color: white !important;\n}\n}\r\n", ""]);
+exports.push([module.i, "\n@media print {\n#wrapper #content-wrapper {\n    background-color: white !important;\n}\n}\n", ""]);
 
 // exports
 
@@ -89173,7 +89173,7 @@ exports = module.exports = __webpack_require__(/*! ../../../../node_modules/css-
 
 
 // module
-exports.push([module.i, "\n.router-link-exact-active[data-v-cc8f9d4a] {\r\n  background-color: #4e73df;\r\n  color: white;\n}\r\n", ""]);
+exports.push([module.i, "\n.router-link-exact-active[data-v-cc8f9d4a] {\n  background-color: #4e73df;\n  color: white;\n}\n", ""]);
 
 // exports
 
@@ -89192,7 +89192,7 @@ exports = module.exports = __webpack_require__(/*! ../../../../node_modules/css-
 
 
 // module
-exports.push([module.i, "\n.router-link-exact-active[data-v-363fcf96] {\r\n  background-color: #4e73df;\r\n  color: white;\n}\r\n", ""]);
+exports.push([module.i, "\n.router-link-exact-active[data-v-363fcf96] {\n  background-color: #4e73df;\n  color: white;\n}\n", ""]);
 
 // exports
 
@@ -89211,7 +89211,7 @@ exports = module.exports = __webpack_require__(/*! ../../../../node_modules/css-
 
 
 // module
-exports.push([module.i, "\n.router-link-exact-active[data-v-0bacb642] {\r\n  background-color: #4e73df;\r\n  color: white;\n}\r\n", ""]);
+exports.push([module.i, "\n.router-link-exact-active[data-v-0bacb642] {\n  background-color: #4e73df;\n  color: white;\n}\n", ""]);
 
 // exports
 
@@ -89230,7 +89230,7 @@ exports = module.exports = __webpack_require__(/*! ../../../../node_modules/css-
 
 
 // module
-exports.push([module.i, "\n.router-link-exact-active[data-v-02f4547d] {\r\n  background-color: #4e73df;\r\n  color: white;\n}\r\n", ""]);
+exports.push([module.i, "\n.router-link-exact-active[data-v-02f4547d] {\n  background-color: #4e73df;\n  color: white;\n}\n", ""]);
 
 // exports
 
@@ -89249,7 +89249,7 @@ exports = module.exports = __webpack_require__(/*! ../../../../node_modules/css-
 
 
 // module
-exports.push([module.i, "\n.router-link-exact-active[data-v-4303b95a] {\r\n  background-color: #4e73df;\r\n  color: white;\n}\r\n", ""]);
+exports.push([module.i, "\n.router-link-exact-active[data-v-4303b95a] {\n  background-color: #4e73df;\n  color: white;\n}\n", ""]);
 
 // exports
 
@@ -89268,7 +89268,7 @@ exports = module.exports = __webpack_require__(/*! ../../../../node_modules/css-
 
 
 // module
-exports.push([module.i, "\n@media print {\n#wrapper #content-wrapper {\r\n    background-color: white !important;\n}\n}\n#content {\r\n  background-color: white !important;\n}\r\n", ""]);
+exports.push([module.i, "\n@media print {\n#wrapper #content-wrapper {\n    background-color: white !important;\n}\n}\n#content {\n  background-color: white !important;\n}\n", ""]);
 
 // exports
 
@@ -89287,7 +89287,7 @@ exports = module.exports = __webpack_require__(/*! ../../../../node_modules/css-
 
 
 // module
-exports.push([module.i, "\n.font-xs {\r\n  font-size: 0.6rem;\n}\n.font-s {\r\n  font-size: 0.8rem;\n}\n.font-md {\r\n  font-size: 1.1rem;\n}\np {\r\n  color: black !important;\n}\n.font-dark {\r\n  color: black !important;\n}\n.only-print {\r\n  display: none;\n}\n@media print {\n.pagebreak {\r\n    page-break-before: always;\n}\n.only-print {\r\n    display: block;\n}\n}\n.bg-white {\r\n  background-color: white !important;\n}\r\n", ""]);
+exports.push([module.i, "\n.font-xs {\n  font-size: 0.6rem;\n}\n.font-s {\n  font-size: 0.8rem;\n}\n.font-md {\n  font-size: 1.1rem;\n}\np {\n  color: black !important;\n}\n.font-dark {\n  color: black !important;\n}\n.only-print {\n  display: none;\n}\n@media print {\n.pagebreak {\n    page-break-before: always;\n}\n.only-print {\n    display: block;\n}\n}\n.bg-white {\n  background-color: white !important;\n}\n", ""]);
 
 // exports
 
@@ -89306,7 +89306,7 @@ exports = module.exports = __webpack_require__(/*! ../../../../node_modules/css-
 
 
 // module
-exports.push([module.i, "\n.router-link-exact-active[data-v-2848132e] {\r\n  background-color: #4e73df;\r\n  color: white;\n}\r\n", ""]);
+exports.push([module.i, "\n.router-link-exact-active[data-v-2848132e] {\n  background-color: #4e73df;\n  color: white;\n}\n", ""]);
 
 // exports
 
@@ -89325,7 +89325,7 @@ exports = module.exports = __webpack_require__(/*! ../../../../node_modules/css-
 
 
 // module
-exports.push([module.i, "\n.router-link-exact-active[data-v-0b94cac8] {\r\n  background-color: #4e73df;\r\n  color: white;\n}\r\n", ""]);
+exports.push([module.i, "\n.router-link-exact-active[data-v-0b94cac8] {\n  background-color: #4e73df;\n  color: white;\n}\n", ""]);
 
 // exports
 
@@ -89344,7 +89344,7 @@ exports = module.exports = __webpack_require__(/*! ../../../../node_modules/css-
 
 
 // module
-exports.push([module.i, "\nbody[data-v-32f1da8c] {\r\n  font-family: \"Roboto\", sans-serif;\n}\n.sub-title-red[data-v-32f1da8c] {\r\n  border-top: solid #d03346 0.2rem;\n}\n.font-s[data-v-32f1da8c] {\r\n  font-size: 0.8rem !important;\n}\n.box[data-v-32f1da8c] {\r\n  padding: 2rem;\n}\n.bg-logo[data-v-32f1da8c] {\r\n  margin-bottom: -90rem;\r\n  margin-left: 5rem;\r\n  width: 60rem;\r\n  z-index: 2;\r\n  opacity: 0.1;\n}\n.border-top[data-v-32f1da8c] {\r\n  border-top: 0.4rem solid #d03346 !important;\n}\n.border-top-dark[data-v-32f1da8c] {\r\n  border-top: 0.2rem solid #363636 !important;\n}\n.bg-box-dark[data-v-32f1da8c] {\r\n  background-color: #363636;\n}\n.icon[data-v-32f1da8c] {\r\n  border: 0.2rem solid #d03346;\r\n  padding: 0.6rem;\r\n  border-radius: 2rem;\r\n  font-size: 1rem;\r\n  color: #363636;\n}\n.bg-red[data-v-32f1da8c] {\r\n  background-color: #34495e !important;\r\n  color: white;\r\n  -webkit-print-color-adjust: exact;\n}\n.bg-dark[data-v-32f1da8c] {\r\n  background-color: #363636;\n}\n.table-print[data-v-32f1da8c] {\r\n  width: 100%;\r\n  margin-bottom: 1rem;\r\n  color: #212529;\n}\n.table-print-border-bottom[data-v-32f1da8c] {\r\n  border-bottom: 1rem solid #34495e;\n}\n.table-print thead th[data-v-32f1da8c] {\r\n  vertical-align: bottom;\r\n  border-bottom: 0.2rem solid #363636;\r\n  border-top: 0.2rem solid #363636;\n}\n.table-print th[data-v-32f1da8c],\r\n.table-print td[data-v-32f1da8c] {\r\n  padding: 0.75rem;\r\n  vertical-align: top;\r\n  border-top: 1px solid #dee2e6;\n}\n.bg-light-box[data-v-32f1da8c] {\r\n  background-color: #f6f6f6;\n}\n.page-break[data-v-32f1da8c] {\r\n  page-break-before: always;\n}\n.logo[data-v-32f1da8c] {\r\n  margin-left: -56rem;\r\n\r\n  margin-top: -8rem;\n}\n.logo img[data-v-32f1da8c] {\r\n  width: 20rem;\n}\n.main-title[data-v-32f1da8c] {\r\n  color: #c0392b;\r\n  font-weight: bolder;\n}\n@media print {\n}\r\n", ""]);
+exports.push([module.i, "\nbody[data-v-32f1da8c] {\n  font-family: \"Roboto\", sans-serif;\n}\n.sub-title-red[data-v-32f1da8c] {\n  border-top: solid #d03346 0.2rem;\n}\n.font-s[data-v-32f1da8c] {\n  font-size: 0.8rem !important;\n}\n.box[data-v-32f1da8c] {\n  padding: 2rem;\n}\n.bg-logo[data-v-32f1da8c] {\n  margin-bottom: -90rem;\n  margin-left: 5rem;\n  width: 60rem;\n  z-index: 2;\n  opacity: 0.1;\n}\n.border-top[data-v-32f1da8c] {\n  border-top: 0.4rem solid #d03346 !important;\n}\n.border-top-dark[data-v-32f1da8c] {\n  border-top: 0.2rem solid #363636 !important;\n}\n.bg-box-dark[data-v-32f1da8c] {\n  background-color: #363636;\n}\n.icon[data-v-32f1da8c] {\n  border: 0.2rem solid #d03346;\n  padding: 0.6rem;\n  border-radius: 2rem;\n  font-size: 1rem;\n  color: #363636;\n}\n.bg-red[data-v-32f1da8c] {\n  background-color: #34495e !important;\n  color: white;\n  -webkit-print-color-adjust: exact;\n}\n.bg-dark[data-v-32f1da8c] {\n  background-color: #363636;\n}\n.table-print[data-v-32f1da8c] {\n  width: 100%;\n  margin-bottom: 1rem;\n  color: #212529;\n}\n.table-print-border-bottom[data-v-32f1da8c] {\n  border-bottom: 1rem solid #34495e;\n}\n.table-print thead th[data-v-32f1da8c] {\n  vertical-align: bottom;\n  border-bottom: 0.2rem solid #363636;\n  border-top: 0.2rem solid #363636;\n}\n.table-print th[data-v-32f1da8c],\n.table-print td[data-v-32f1da8c] {\n  padding: 0.75rem;\n  vertical-align: top;\n  border-top: 1px solid #dee2e6;\n}\n.bg-light-box[data-v-32f1da8c] {\n  background-color: #f6f6f6;\n}\n.page-break[data-v-32f1da8c] {\n  page-break-before: always;\n}\n.logo[data-v-32f1da8c] {\n  margin-left: -56rem;\n\n  margin-top: -8rem;\n}\n.logo img[data-v-32f1da8c] {\n  width: 20rem;\n}\n.main-title[data-v-32f1da8c] {\n  color: #c0392b;\n  font-weight: bolder;\n}\n@media print {\n}\n", ""]);
 
 // exports
 
@@ -89363,7 +89363,7 @@ exports = module.exports = __webpack_require__(/*! ../../../../node_modules/css-
 
 
 // module
-exports.push([module.i, "\nbody[data-v-798d56b3] {\r\n  font-family: \"Roboto\", sans-serif;\n}\n.sub-title-red[data-v-798d56b3] {\r\n  border-top: solid #d03346 0.2rem;\n}\n.font-s[data-v-798d56b3] {\r\n  font-size: 0.8rem !important;\n}\n.box[data-v-798d56b3] {\r\n  padding: 2rem;\n}\n.bg-logo[data-v-798d56b3] {\r\n  top: 20%;\r\n  left: 8%;\r\n  position: absolute;\r\n  width: 60rem;\r\n  z-index: 2;\r\n  opacity: 0.3;\n}\n.border-top-dark[data-v-798d56b3] {\r\n  border-top: 0.2rem solid #363636 !important;\n}\n.bg-box-dark[data-v-798d56b3] {\r\n  background-color: #363636;\n}\n.icon[data-v-798d56b3] {\r\n  border: 0.2rem solid #34495e;\r\n  padding: 0.6rem;\r\n  border-radius: 2rem;\r\n  font-size: 1rem;\r\n  color: #363636;\n}\n.bg-red[data-v-798d56b3] {\r\n  background-color: #34495e !important;\r\n  color: white;\n}\n.bg-dark[data-v-798d56b3] {\r\n  background-color: #363636;\n}\n.table-print[data-v-798d56b3] {\r\n  width: 100%;\r\n  margin-bottom: 1rem;\r\n  color: #212529;\n}\n.table-print-border-bottom[data-v-798d56b3] {\r\n  border-bottom: 1rem solid #34495e;\n}\n.table-print thead th[data-v-798d56b3] {\r\n  vertical-align: bottom;\r\n  border-bottom: 0.2rem solid #363636;\r\n  border-top: 0.2rem solid #363636;\n}\n.table-print th[data-v-798d56b3],\r\n.table-print td[data-v-798d56b3] {\r\n  padding: 0.5rem;\r\n  vertical-align: top;\r\n  border-top: 1px solid #dee2e6;\n}\n.bg-light-box[data-v-798d56b3] {\r\n  background-color: #f6f6f6;\n}\n.page-break[data-v-798d56b3] {\r\n  page-break-before: always;\n}\n.logo[data-v-798d56b3] {\r\n  position: absolute;\r\n  top: -1%;\r\n  right: 15%;\n}\n.logo img[data-v-798d56b3] {\r\n  width: 15rem;\n}\n.main-title[data-v-798d56b3] {\r\n  color: #c0392b;\r\n  font-weight: bolder;\n}\n@media only screen and (max-width: 600px) {\nh5[data-v-798d56b3]{\r\n    font-size: 0.83em !important;\n}\nh1[data-v-798d56b3]{\r\n    font-size: 1.5rem;\n}\np[data-v-798d56b3]{\r\n    font-size: 0.83em;\n}\n}\r\n", ""]);
+exports.push([module.i, "\nbody[data-v-798d56b3] {\n  font-family: \"Roboto\", sans-serif;\n}\n.sub-title-red[data-v-798d56b3] {\n  border-top: solid #d03346 0.2rem;\n}\n.font-s[data-v-798d56b3] {\n  font-size: 0.8rem !important;\n}\n.box[data-v-798d56b3] {\n  padding: 2rem;\n}\n.bg-logo[data-v-798d56b3] {\n  top: 20%;\n  left: 8%;\n  position: absolute;\n  width: 60rem;\n  z-index: 2;\n  opacity: 0.3;\n}\n.border-top-dark[data-v-798d56b3] {\n  border-top: 0.2rem solid #363636 !important;\n}\n.bg-box-dark[data-v-798d56b3] {\n  background-color: #363636;\n}\n.icon[data-v-798d56b3] {\n  border: 0.2rem solid #34495e;\n  padding: 0.6rem;\n  border-radius: 2rem;\n  font-size: 1rem;\n  color: #363636;\n}\n.bg-red[data-v-798d56b3] {\n  background-color: #34495e !important;\n  color: white;\n}\n.bg-dark[data-v-798d56b3] {\n  background-color: #363636;\n}\n.table-print[data-v-798d56b3] {\n  width: 100%;\n  margin-bottom: 1rem;\n  color: #212529;\n}\n.table-print-border-bottom[data-v-798d56b3] {\n  border-bottom: 1rem solid #34495e;\n}\n.table-print thead th[data-v-798d56b3] {\n  vertical-align: bottom;\n  border-bottom: 0.2rem solid #363636;\n  border-top: 0.2rem solid #363636;\n}\n.table-print th[data-v-798d56b3],\n.table-print td[data-v-798d56b3] {\n  padding: 0.5rem;\n  vertical-align: top;\n  border-top: 1px solid #dee2e6;\n}\n.bg-light-box[data-v-798d56b3] {\n  background-color: #f6f6f6;\n}\n.page-break[data-v-798d56b3] {\n  page-break-before: always;\n}\n.logo[data-v-798d56b3] {\n  position: absolute;\n  top: -1%;\n  right: 15%;\n}\n.logo img[data-v-798d56b3] {\n  width: 15rem;\n}\n.main-title[data-v-798d56b3] {\n  color: #c0392b;\n  font-weight: bolder;\n}\n@media only screen and (max-width: 600px) {\nh5[data-v-798d56b3]{\n    font-size: 0.83em !important;\n}\nh1[data-v-798d56b3]{\n    font-size: 1.5rem;\n}\np[data-v-798d56b3]{\n    font-size: 0.83em;\n}\n}\n", ""]);
 
 // exports
 
@@ -89382,7 +89382,7 @@ exports = module.exports = __webpack_require__(/*! ../../../../node_modules/css-
 
 
 // module
-exports.push([module.i, "\nbody[data-v-eaa1d3fc] {\r\n  font-family: \"Roboto\", sans-serif;\n}\n.sub-title-red[data-v-eaa1d3fc] {\r\n  border-top: solid #d03346 0.2rem;\n}\n.font-s[data-v-eaa1d3fc] {\r\n  font-size: 0.8rem !important;\n}\n.box[data-v-eaa1d3fc] {\r\n  padding: 2rem;\n}\n.bg-logo[data-v-eaa1d3fc] {\r\n  top: 20%;\r\n  left: 8%;\r\n  position: absolute;\r\n  width: 60rem;\r\n  z-index: 2;\r\n  opacity: 0.3;\n}\n.border-top-dark[data-v-eaa1d3fc] {\r\n  border-top: 0.2rem solid #363636 !important;\n}\n.bg-box-dark[data-v-eaa1d3fc] {\r\n  background-color: #363636;\n}\n.icon[data-v-eaa1d3fc] {\r\n  border: 0.2rem solid #34495e;\r\n  padding: 0.6rem;\r\n  border-radius: 2rem;\r\n  font-size: 1rem;\r\n  color: #363636;\n}\n.bg-red[data-v-eaa1d3fc] {\r\n  background-color: #34495e !important;\r\n  color: white;\n}\n.bg-dark[data-v-eaa1d3fc] {\r\n  background-color: #363636;\n}\n.table-print[data-v-eaa1d3fc] {\r\n  width: 100%;\r\n  margin-bottom: 1rem;\r\n  color: #212529;\n}\n.table-print-border-bottom[data-v-eaa1d3fc] {\r\n  border-bottom: 1rem solid #34495e;\n}\n.table-print thead th[data-v-eaa1d3fc] {\r\n  vertical-align: bottom;\r\n  border-bottom: 0.2rem solid #363636;\r\n  border-top: 0.2rem solid #363636;\n}\n.table-print th[data-v-eaa1d3fc],\r\n.table-print td[data-v-eaa1d3fc] {\r\n  padding: 0.75rem;\r\n  vertical-align: top;\r\n  border-top: 1px solid #dee2e6;\n}\n.bg-light-box[data-v-eaa1d3fc] {\r\n  background-color: #f6f6f6;\n}\n.page-break[data-v-eaa1d3fc] {\r\n  page-break-before: always;\n}\n.logo[data-v-eaa1d3fc] {\r\n  position: absolute;\r\n  top: -1%;\r\n  right: 15%;\n}\n.logo img[data-v-eaa1d3fc] {\r\n  width: 20rem;\n}\n.main-title[data-v-eaa1d3fc] {\r\n  color: #c0392b;\r\n  font-weight: bolder;\n}\n@media only screen and (max-width: 600px) {\nh5[data-v-eaa1d3fc]{\r\n    font-size: 0.83em !important;\n}\nh1[data-v-eaa1d3fc]{\r\n    font-size: 1.5rem;\n}\np[data-v-eaa1d3fc]{\r\n    font-size: 0.83em;\n}\nh3[data-v-eaa1d3fc]{\r\n    font-size: 1.17em;\n}\n}\r\n", ""]);
+exports.push([module.i, "\nbody[data-v-eaa1d3fc] {\n  font-family: \"Roboto\", sans-serif;\n}\n.sub-title-red[data-v-eaa1d3fc] {\n  border-top: solid #d03346 0.2rem;\n}\n.font-s[data-v-eaa1d3fc] {\n  font-size: 0.8rem !important;\n}\n.box[data-v-eaa1d3fc] {\n  padding: 2rem;\n}\n.bg-logo[data-v-eaa1d3fc] {\n  top: 20%;\n  left: 8%;\n  position: absolute;\n  width: 60rem;\n  z-index: 2;\n  opacity: 0.3;\n}\n.border-top-dark[data-v-eaa1d3fc] {\n  border-top: 0.2rem solid #363636 !important;\n}\n.bg-box-dark[data-v-eaa1d3fc] {\n  background-color: #363636;\n}\n.icon[data-v-eaa1d3fc] {\n  border: 0.2rem solid #34495e;\n  padding: 0.6rem;\n  border-radius: 2rem;\n  font-size: 1rem;\n  color: #363636;\n}\n.bg-red[data-v-eaa1d3fc] {\n  background-color: #34495e !important;\n  color: white;\n}\n.bg-dark[data-v-eaa1d3fc] {\n  background-color: #363636;\n}\n.table-print[data-v-eaa1d3fc] {\n  width: 100%;\n  margin-bottom: 1rem;\n  color: #212529;\n}\n.table-print-border-bottom[data-v-eaa1d3fc] {\n  border-bottom: 1rem solid #34495e;\n}\n.table-print thead th[data-v-eaa1d3fc] {\n  vertical-align: bottom;\n  border-bottom: 0.2rem solid #363636;\n  border-top: 0.2rem solid #363636;\n}\n.table-print th[data-v-eaa1d3fc],\n.table-print td[data-v-eaa1d3fc] {\n  padding: 0.75rem;\n  vertical-align: top;\n  border-top: 1px solid #dee2e6;\n}\n.bg-light-box[data-v-eaa1d3fc] {\n  background-color: #f6f6f6;\n}\n.page-break[data-v-eaa1d3fc] {\n  page-break-before: always;\n}\n.logo[data-v-eaa1d3fc] {\n  position: absolute;\n  top: -1%;\n  right: 15%;\n}\n.logo img[data-v-eaa1d3fc] {\n  width: 20rem;\n}\n.main-title[data-v-eaa1d3fc] {\n  color: #c0392b;\n  font-weight: bolder;\n}\n@media only screen and (max-width: 600px) {\nh5[data-v-eaa1d3fc]{\n    font-size: 0.83em !important;\n}\nh1[data-v-eaa1d3fc]{\n    font-size: 1.5rem;\n}\np[data-v-eaa1d3fc]{\n    font-size: 0.83em;\n}\nh3[data-v-eaa1d3fc]{\n    font-size: 1.17em;\n}\n}\n", ""]);
 
 // exports
 
@@ -89401,7 +89401,7 @@ exports = module.exports = __webpack_require__(/*! ../../../../node_modules/css-
 
 
 // module
-exports.push([module.i, "\n.router-link-exact-active[data-v-d2d652d2] {\r\n  background-color: #4e73df;\r\n  color: white;\n}\r\n", ""]);
+exports.push([module.i, "\n.router-link-exact-active[data-v-d2d652d2] {\n  background-color: #4e73df;\n  color: white;\n}\n", ""]);
 
 // exports
 
@@ -89420,7 +89420,7 @@ exports = module.exports = __webpack_require__(/*! ../../../../node_modules/css-
 
 
 // module
-exports.push([module.i, "\n.router-link-exact-active[data-v-3c2224c8] {\r\n  background-color: #4e73df;\r\n  color: white;\n}\r\n", ""]);
+exports.push([module.i, "\n.router-link-exact-active[data-v-3c2224c8] {\n  background-color: #4e73df;\n  color: white;\n}\n", ""]);
 
 // exports
 
@@ -225141,8 +225141,8 @@ var store = new vuex__WEBPACK_IMPORTED_MODULE_1__["default"].Store({
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Users\Harshith\Documents\codes\logistics\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! C:\Users\Harshith\Documents\codes\logistics\resources\sass\app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! /home/ibrahim/Projects/goni-logistics/logistics/resources/js/app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! /home/ibrahim/Projects/goni-logistics/logistics/resources/sass/app.scss */"./resources/sass/app.scss");
 
 
 /***/ })

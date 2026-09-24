@@ -3,7 +3,7 @@
 namespace App\Http\Resources;
 
 use Illuminate\Http\Resources\Json\JsonResource;
-use Helpers;
+use App\Http\Helpers;
 
 class Package extends JsonResource
 {

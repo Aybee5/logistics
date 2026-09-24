@@ -5,7 +5,7 @@ use App\VendorPayment;
 
 
 use Illuminate\Http\Resources\Json\JsonResource;
-use Helpers;
+use App\Http\Helpers;
 
 class ShipmentSingle extends JsonResource
 {

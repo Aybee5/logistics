@@ -1,12 +1,18 @@
 <?php
 
-/** @var \Illuminate\Database\Eloquent\Factory $factory */
+namespace Database\Factories;
 
 use App\ShipmentStatus;
-use Faker\Generator as Faker;
+use Illuminate\Database\Eloquent\Factories\Factory;
 
-$factory->define(ShipmentStatus::class, function (Faker $faker) {
-    return [
-        //
-    ];
-});
+class ShipmentStatusFactory extends Factory
+{
+    protected $model = ShipmentStatus::class;
+
+    public function definition()
+    {
+        return [
+            //
+        ];
+    }
+}

@@ -6,7 +6,7 @@ use App\Expense;
 use Illuminate\Http\Request;
 use App\Http\Resources\Expense as ExpenseResource;
 use Carbon\Carbon;
-use Helpers;
+use App\Http\Helpers;
 
 class ExpenseController extends Controller
 {
