@@ -20,7 +20,7 @@
         "lodash": "^4.17.19",
         "popper.js": "^1.12",
         "resolve-url-loader": "^2.3.1",
-        "sass": "^1.26.10",
+        "sass": "^1.105.0",
         "sass-loader": "^8.0.0",
         "vue": "^2.6.11",
         "vue-template-compiler": "^2.6.10"
@@ -41,7 +41,6 @@
         "laravel-vue-pagination": "^2.3.1",
         "material-design-icons-iconfont": "^5.0.1",
         "moment": "^2.27.0",
-        "node-sass": "^4.14.1",
         "nprogress": "^0.2.0",
         "sweetalert2": "^9.17.1",
         "uuid": "^8.3.0",
